@@ -17,7 +17,7 @@ Nafisa Mustari
 
 19101086
 
-Paper Name: "Predicting Legal Proceedings Status Approaches Based on Sequential Text Data."
+Paper Name: "Techniques to Estimate the Status of Legal Proceedings Considering Sequential Text Data."
 
 Over Leaf LinK: https://www.overleaf.com/read/tmbsbqbzghvt 
 CSE431 Sec:01, Group: 14
