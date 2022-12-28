@@ -5,4 +5,4 @@ Submitter
 Nafisa Mustari
 19101086
 Paper Name: "Predicting Legal Proceedings Status Approaches Based on Sequential Text Data."
-Over Lead LinK: https://www.overleaf.com/read/tmbsbqbzghvt 
+Over Leaf LinK: https://www.overleaf.com/read/tmbsbqbzghvt 
