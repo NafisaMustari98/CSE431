@@ -5,6 +5,10 @@ Paper Link: https://paperswithcode.com/paper/predicting-legal-proceedings-status
 
 Paper Review Slide: https://docs.google.com/presentation/d/1lZjb3rQoGZdGCAZhy3wB8Z6YDKu216ONhMVgKgvagy4/edit?usp=sharing 
 
+Reviewd Book Link : https://web.stanford.edu/~jurafsky/slp3/
+
+Reviewd Book Slide Link: https://docs.google.com/presentation/d/1v9lDihL827f5eIcQn0neu4oS6MRBlYlbNCsmve1AJJc/edit?usp=sharing
+
 Unlisted Youtube  Video Link : https://youtube.com/playlist?list=PLxAOiZ26hl2nPpH-z3qUC0M6IsyutpyXz 
 
 Submitter
