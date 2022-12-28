@@ -12,8 +12,12 @@ Reviewd Book Slide Link: https://docs.google.com/presentation/d/1v9lDihL827f5eIc
 Unlisted Youtube  Video Link : https://youtube.com/playlist?list=PLxAOiZ26hl2nPpH-z3qUC0M6IsyutpyXz 
 
 Submitter
+
 Nafisa Mustari
+
 19101086
+
 Paper Name: "Predicting Legal Proceedings Status Approaches Based on Sequential Text Data."
 
 Over Leaf LinK: https://www.overleaf.com/read/tmbsbqbzghvt 
+CSE431 Sec:01, Group: 14
