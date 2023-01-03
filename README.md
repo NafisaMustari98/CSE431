@@ -15,8 +15,7 @@ Paper Name: "Techniques to Estimate the Status of Legal Proceedings Considering 
 
 Over Leaf LinK: https://www.overleaf.com/read/tmbsbqbzghvt 
 
-Conference Link : https://edas.info/newPerson.php
-https://ieee-ccwc.org/submission/
+Conference Link : https://esciioit.org/
 
 Submitter
 
