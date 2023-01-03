@@ -16,11 +16,19 @@ Paper Name: "Techniques to Estimate the Status of Legal Proceedings Considering 
 Over Leaf LinK: https://www.overleaf.com/read/tmbsbqbzghvt 
 
 Conference Link : https://esciioit.org/
+
 Submission ID Link:https://cmt3.research.microsoft.com/ESCI2023/Submission/Conflict/526
+
 Submission ID in Conference: 526
+
 Submitter
 
 Nafisa Mustari[19101086]
+
 Sanjib Kumar Sen[19301101]
+
+
 Annana Banik[21101342]
+
+
 CSE431 Sec:01, Group: 14
